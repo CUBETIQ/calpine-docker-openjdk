@@ -1,0 +1,5 @@
+os: calpine-os-linux 3.13.3
+openjdk: 11
+author: sombochea <sombochea@cubetiqs.com>
+company: cubetiq solution
+build: 14/07/2021
